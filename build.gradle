@@ -8,6 +8,6 @@ repositories {
     mavenCentral()
 }
 
-dependencies{
+dependencies {
     compile 'org.wildfly:wildfly-feature-pack:11.0.0.Final'
 }
